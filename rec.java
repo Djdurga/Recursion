@@ -12,3 +12,6 @@ public class rec {
 	}
 
 }
+
+//output: gfg
+//        gfg
