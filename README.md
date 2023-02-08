@@ -5,13 +5,19 @@ A function that call itself directly or indirectly.
 
 
 
-Example: Directly
+Example:(Directly)
 
 
 void fun1(){
+
 ...
+
 ...
+
 fun1()
+
 ...
+
 ...
+
 }
